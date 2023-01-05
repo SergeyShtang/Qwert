@@ -1,0 +1,15 @@
+C:\Users\shtan\Desktop\LessCH\Папка\bin\Debug\net6.0\Папка.exe
+C:\Users\shtan\Desktop\LessCH\Папка\bin\Debug\net6.0\Папка.deps.json
+C:\Users\shtan\Desktop\LessCH\Папка\bin\Debug\net6.0\Папка.runtimeconfig.json
+C:\Users\shtan\Desktop\LessCH\Папка\bin\Debug\net6.0\Папка.dll
+C:\Users\shtan\Desktop\LessCH\Папка\bin\Debug\net6.0\Папка.pdb
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.csproj.AssemblyReference.cache
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.AssemblyInfoInputs.cache
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.AssemblyInfo.cs
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.csproj.CoreCompileInputs.cache
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.dll
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\refint\Папка.dll
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.pdb
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\Папка.genruntimeconfig.cache
+C:\Users\shtan\Desktop\LessCH\Папка\obj\Debug\net6.0\ref\Папка.dll
